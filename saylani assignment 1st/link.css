@@ -1,0 +1,221 @@
+#lmaterial{width: 20%;
+             position: absolute;
+             top: 730px;
+             left: 10px;
+             font-family: monospace;
+             border-top-left-radius: 25px;
+              border-bottom-left-radius: 25px;
+              border-top-right-radius: 25px;
+              border-bottom-right-radius: 25px;
+                       border-top: 12px groove #ccffcc;
+              border-left: 12px groove #ccffcc;
+              border-bottom: 12px groove #ccffcc;
+              border-right: 12px groove #ccffcc;
+              }
+.bg{
+             border-top-left-radius: 25px;
+              border-bottom-left-radius: 25px;
+              border-top-right-radius: 25px;
+              border-bottom-right-radius: 25px;
+              border-top: 12px groove #333366;
+              border-left: 12px groove #333366;
+              border-bottom: 12px groove #333366;
+              border-right: 12px groove #333366;
+              margin-bottom: 5px,5px;
+    
+}
+#videoc{width: 90%;
+                margin: 20px auto;
+                display: block;
+                border-radius: 10px;
+                color: #333366;
+                padding: 5px;
+                font-size: 1.5em;
+                box-shadow: 0 0 1px 1px black;
+                background-color: #ccffcc;
+                border:5px inset #0099cc
+                }
+                .heading{
+                    width: 90%;
+                margin: 20px auto;
+                display: block;
+                border-radius: 10px;
+                color: #333366;
+                padding: 5px;
+                font-size: 1.5em;
+                box-shadow: 0 0 1px 1px black;
+                background-color: #ccffcc;
+                border:5px inset #0099cc;
+                font-family: serif;
+        
+                }
+                .theading{
+                  width: 90%;
+                margin: 20px auto;
+                display: block;
+                border-radius: 10px;
+                color: #333366;
+                padding: 5px;
+                font-size: 1.5em;
+                box-shadow: 0 0 1px 1px black;
+                background-color: #ccffcc;
+                border:5px inset #0099cc;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: center;
+           
+                }
+                
+#videoc:hover{
+                    border: 8px outset #003399;
+                }
+                
+#left1 li{border: 5px inset #0099cc;
+           padding: 12px;
+           background-color: #ccffcc;
+           box-shadow: inset 2px 4px 5px black;
+           border-radius: 10px;  }
+
+#left1 li:hover{border: 8px outset #003399;
+                }
+#left1 i{float: right;
+          padding-right: 10px;}
+
+#left1 a{text-decoration: none;
+          color: #333366;
+          font-size: 0.9em;
+          }
+          
+#sdabba{border: 3px inset #0099cc;
+           padding: 15px;
+           padding-left: 40px;
+           background-color: #ccffcc;
+           box-shadow: inset 2px 4px 5px #0099cc;
+           border-radius: 10px; 
+           }
+           #ldabba{
+        border: 3px inset #0099cc;
+           padding: 10px;
+           padding-left: 60px;
+           background-color: #ccffcc;
+           box-shadow: inset 2px 4px 5px #0099cc;
+           border-radius: 10px; 
+           
+        
+           }
+           #ldabba a{
+               text-decoration: none;
+               color: #333366;
+           }
+           #center{
+               margin: 10px 2px;
+              width: 252%;
+              height: 100%;
+              position: absolute;
+              top: 5px;
+              left: 300px;
+              background-color: #ccffcc;
+              border-top-left-radius: 25px;
+              border-bottom-left-radius: 25px;
+              border-top-right-radius: 25px;
+              border-bottom-right-radius: 25px;
+                       border-top: 12px groove #ccffcc;
+              border-left: 12px groove #ccffcc;
+              border-bottom: 12px groove #ccffcc;
+              border-right: 12px groove #ccffcc;
+              text-align: justify;
+              padding-right: 5px;
+     
+           }
+           #Cen1{width: 65%;
+     padding:100px;
+     text-align: justify;
+     
+    }
+
+#cen1 img{float: right;}
+
+#cen1 h2{background-color: #0099cc;
+        color: black;
+        padding: 5px;
+        width: 90%;
+        margin: 20px auto;
+        text-align: center;
+        border-radius: 5px;
+        }
+
+#cen1 a{font-size: 1.3em;
+       color: #333366;
+       font-weight: bold;}
+       #cimage{width: 500px;
+           height: 320px;
+           margin-left: 10px;
+            border-top-left-radius: 25px;
+              border-bottom-left-radius: 25px;
+              border-top-right-radius: 25px;
+              border-bottom-right-radius: 25px;
+                       border-top: 12px groove #0099cc;
+              border-left: 12px groove #0099cc;
+              border-bottom: 12px groove #0099cc;
+              border-right: 12px groove #3399ff;
+             }
+.vlinks{width: 150px;
+           height: 100px;
+           margin-left: 10px;}
+
+       
+ 
+  #rig{width: 110%;
+     height: 100%;
+     background-color: #ccffcc;
+     margin: 10px 15px;
+     position: absolute;
+     top:0px;
+     left:1000px;
+     background-color: #ccffcc;
+     border-top-left-radius: 25px;
+     border-bottom-left-radius: 25px;
+     border-top-right-radius: 25px;
+     border-bottom-right-radius: 25px;
+     border-top: 12px groove #ccffcc;
+     border-left: 12px groove #ccffcc;
+     border-bottom: 12px groove #ccffcc;
+     border-right: 12px groove #ccffcc;
+     }
+     #r1t{width: 97%;
+         text-align: center;
+         margin: 5px;}
+
+#r1t th{padding: 5px;}
+
+#r1t i{font-size: 2em;
+          }
+
+#r1t b{color: #333366;}
+
+#r1t td{background-color: #81BAF9;
+            padding: 5px;}
+#table2a, #table3a, #table4a, #table5a{width: 97%;
+         text-align: center;
+         margin: 5px;
+         }
+
+.panelBody{border: 2px inset #333366;
+           padding: 10px;
+           padding-left: 15px;
+           
+           background-color: #ccffcc;
+     border-top-left-radius: 25px;
+     border-bottom-left-radius: 25px;
+     border-top-right-radius: 25px;
+     border-bottom-right-radius: 25px;
+     border-top: 12px groove #0099cc;
+     border-left: 12px groove #0099cc;
+     border-bottom: 12px groove #0099cc;
+     border-right: 12px groove #0099cc;
+     }
+     .parallax {
+    background: url(m1.jpeg) no-repeat fixed;
+    background-size: cover;
+    height: 600px;
+    
+}
