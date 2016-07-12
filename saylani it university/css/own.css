@@ -1,0 +1,70 @@
+.jumbotron{
+margin-bottom: 0px;
+  height: 350px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  background:transparent;
+background: url('../images/light_bulb.jpg');
+}
+#color{
+    color: lightseagreen;
+}
+#hover {
+    background-color: chartreuse;
+}
+#color1{
+    color: #337ab7;
+}
+.thumbnail{        
+    width: 300px;
+    height: 430px;
+    overflow: auto;
+    
+}
+ .parallax {
+    background: url(../assets/img/slider/3.jpeg) no-repeat fixed;
+    background-size: contain;
+    height: 400px;
+    width: 1400px;
+    
+}
+.parallax1 {
+    background: url(../assets/img/slider/3.jpg) no-repeat fixed;
+    background-size: contain;
+    height: 400px;
+    width: 1600px;
+    
+}
+.bg{
+             border-top-left-radius: 25px;
+              border-bottom-left-radius: 25px;
+              border-top-right-radius: 25px;
+              border-bottom-right-radius: 25px;
+              border-top: 12px groove lightseagreen;
+              border-left: 12px groove #337ab7;
+              border-bottom: 12px groove lightseagreen;
+              border-right: 12px groove #337ab7;
+              
+    
+}
+.circle{
+    border-radius: 50%;
+    border: 5px groove lightseagreen;
+}
+.gallery{
+    height:400px;
+    width: 1320px;
+    margin-left: 10px;
+    margin-right: 10px;
+     border-top-left-radius: 25px;
+              border-bottom-left-radius: 25px;
+              border-top-right-radius: 25px;
+              border-bottom-right-radius: 25px;
+              border-top: 12px groove lightseagreen;
+              border-left: 12px groove #337ab7;
+              border-bottom: 12px groove lightseagreen;
+              border-right: 12px groove #337ab7;
+              
+            
+}
+
